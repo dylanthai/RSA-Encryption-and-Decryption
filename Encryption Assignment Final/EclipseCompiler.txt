@@ -1,0 +1,45 @@
+4 Mar 2020 3:34:27 GMT: Log 'EclipseCompiler.txt' opened: 4 Mar 2020 3:34:27 GMT with name F:\ICS4U\Encryption Assignment\DrJava\Submission Folder\EclipseCompiler.txt
+4 Mar 2020 3:34:32 GMT: diagnostics = javax.tools.DiagnosticCollector@e2563d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19d73c2
+fileObjects = [F:\ICS4U\Encryption Assignment\DrJava\Submission Folder\Encryption2a.java]
+4 Mar 2020 3:34:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5ef7f3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS4U\Encryption Assignment\DrJava\Submission Folder;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+4 Mar 2020 3:34:32 GMT: Compiler call returned
+4 Mar 2020 3:35:53 GMT: diagnostics = javax.tools.DiagnosticCollector@1ecc5f5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a2d16a
+fileObjects = [F:\ICS4U\Encryption Assignment\DrJava\Submission Folder\Encryption2a.java]
+4 Mar 2020 3:35:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b521e1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS4U\Encryption Assignment\DrJava\Submission Folder;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+4 Mar 2020 3:35:53 GMT: Compiler call returned
+4 Mar 2020 3:38:45 GMT: diagnostics = javax.tools.DiagnosticCollector@1a17cd0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4b04d9
+fileObjects = [F:\ICS4U\Encryption Assignment\DrJava\Submission Folder\Encryption2a.java]
+4 Mar 2020 3:38:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cec04f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS4U\Encryption Assignment\DrJava\Submission Folder;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+4 Mar 2020 3:38:45 GMT: Compiler call returned
+4 Mar 2020 3:39:07 GMT: diagnostics = javax.tools.DiagnosticCollector@cd107a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1634632
+fileObjects = [F:\ICS4U\Encryption Assignment\DrJava\Submission Folder\Encryption2a.java]
+4 Mar 2020 3:39:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9bd6d0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS4U\Encryption Assignment\DrJava\Submission Folder;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+4 Mar 2020 3:39:07 GMT: Compiler call returned
+4 Mar 2020 3:41:55 GMT: Log 'EclipseCompiler.txt' opened: 4 Mar 2020 3:41:55 GMT with name F:\ICS4U\Encryption Assignment\DrJava\Submission Folder\EclipseCompiler.txt
+4 Mar 2020 3:42:56 GMT: diagnostics = javax.tools.DiagnosticCollector@ffba9c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d6e2d4
+fileObjects = [F:\ICS4U\Encryption Assignment\DrJava\Submission Folder\Encryption1a.java]
+4 Mar 2020 3:42:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ea88ca' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS4U\Encryption Assignment\DrJava\Submission Folder;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+4 Mar 2020 3:42:56 GMT: Compiler call returned
+4 Mar 2020 3:43:06 GMT: Log 'EclipseCompiler.txt' opened: 4 Mar 2020 3:43:06 GMT with name F:\ICS4U\Encryption Assignment\DrJava\Submission Folder\EclipseCompiler.txt
+4 Mar 2020 3:43:16 GMT: diagnostics = javax.tools.DiagnosticCollector@11d2ea6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ae41d
+fileObjects = [F:\ICS4U\Encryption Assignment\DrJava\Submission Folder\Encryption2a.java]
+4 Mar 2020 3:43:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@29669a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\ICS4U\Encryption Assignment\DrJava\Submission Folder;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+4 Mar 2020 3:43:17 GMT: Compiler call returned
+14 Jan 2021 15:51:04 GMT: Log 'EclipseCompiler.txt' opened: 14 Jan 2021 15:51:04 GMT with name F:\ICS4U\Encryption Assignment\DrJava\Submission Folder\EclipseCompiler.txt
+15 Jan 2021 1:24:49 GMT: Log 'EclipseCompiler.txt' opened: 15 Jan 2021 1:24:49 GMT with name C:\Users\dylan\Desktop\Grade 12\Encryption Assignment Final\EclipseCompiler.txt
+15 Jan 2021 1:25:15 GMT: diagnostics = javax.tools.DiagnosticCollector@523ad6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@29007a
+fileObjects = [C:\Users\dylan\Desktop\Grade 12\Encryption Assignment Final\Encryption2a.java]
+15 Jan 2021 1:25:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f7b566' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\dylan\Desktop\Grade 12\Encryption Assignment Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+15 Jan 2021 1:25:16 GMT: Compiler call returned
+15 Jan 2021 1:25:33 GMT: diagnostics = javax.tools.DiagnosticCollector@1fa6ef5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1dd309c
+fileObjects = [C:\Users\dylan\Desktop\Grade 12\Encryption Assignment Final\Encryption2a.java]
+15 Jan 2021 1:25:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@35e59c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\dylan\Desktop\Grade 12\Encryption Assignment Final;C:\Users\dylan\Desktop\Java;C:\Users\dylan\Desktop\Programs\Dr Java.exe]
+15 Jan 2021 1:25:33 GMT: Compiler call returned
